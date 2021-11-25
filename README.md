@@ -20,3 +20,8 @@ I'm not starting from scratch because I've had contact with the language before.
 - Manipulated classes and objects;
 - Re implemented a coffee machine using ready-made classes;
 - Equivalent to day 16, at the course;
+
+### Day 4
+- Created my own Class in Python
+- Added Methods to a Class
+- Equivalent to day 17, at the course;
