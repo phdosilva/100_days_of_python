@@ -1,0 +1,1 @@
+This project introduce the imperative way to code python using the abstraction of a coffee machine.
