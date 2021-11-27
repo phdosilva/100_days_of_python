@@ -25,3 +25,7 @@ I'm not starting from scratch because I've had contact with the language before.
 - Created my own Class in Python
 - Added Methods to a Class
 - Equivalent to day 17, at the course;
+
+### Day 5
+- Trained to read documentation
+- Implemented new projects using the turtle library
