@@ -8,7 +8,7 @@ I met the 100 days code challenge years ago and as soon as I started studying th
 I'm not starting from scratch because I've had contact with the language before. But now I'm starting from the basics as I never went deeper.
 
 ### Day 1
-- Before the challange, I was introduced to the basics of OOP, inheritance, _dunder methods_ and _duck typing_ on python.
+- Before the challange, I was introduced to the basics of OOP, inheritance, _dunder methods_ and _duck typing_ on python;
 - Started the [100DaysOfPython](https://www.udemy.com/course/100-days-of-code) Course from class 15, by test recommendation;
 
 ### Day 2
@@ -22,10 +22,15 @@ I'm not starting from scratch because I've had contact with the language before.
 - Equivalent to day 16, at the course;
 
 ### Day 4
-- Created my own Class in Python
-- Added Methods to a Class
+- Created my own Class in Python;
+- Added Methods to a Class;
 - Equivalent to day 17, at the course;
 
 ### Day 5
-- Trained to read documentation
-- Implemented new projects using the turtle library
+- Trained to read documentation;
+- Implemented new projects using the turtle library;
+
+### Day 6
+- Create a little bet game;
+
+![Miyagi Refenre](/miyagi_reference.gif)
