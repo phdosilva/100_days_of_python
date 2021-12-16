@@ -34,3 +34,10 @@ I'm not starting from scratch because I've had contact with the language before.
 - Create a little bet game;
 
 ![Miyagi Refenre](/miyagi_reference.gif)
+
+### Day 7
+- After a few days off, I came back starting an Audio Recognizer with python and Furrier Transform.
+- I started to learn mysql and how to python interacts with DBs
+
+I created a fork of the project that I'm one of the contributor:
+[phdosilva/AudioFingerPrint](https://github.com/phdosilva/AudioFingerPrint)
