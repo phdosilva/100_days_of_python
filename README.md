@@ -41,3 +41,10 @@ I'm not starting from scratch because I've had contact with the language before.
 
 I created a fork of the project that I'm one of the contributor:
 [phdosilva/AudioFingerPrint](https://github.com/phdosilva/AudioFingerPrint)
+
+### Day 8
+- Read a entire reference project
+- First contact with numpy, scipy, matlabplot libraries
+
+### Day 9
+- Cotinues on AudioFingerPrint Project
