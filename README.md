@@ -52,5 +52,6 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 10
 - Created a fingerprint generator logic using librarys like matlabplot, scipy and numpy
 
-### Dat 11
+### Day 11
 - Started a new project to create a telegram bot to control my computer (news soon)
+- Started the day 20 at python course creating a snake game project
