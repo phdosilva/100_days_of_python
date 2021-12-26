@@ -48,3 +48,9 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 9
 - Cotinues on AudioFingerPrint Project
+
+### Day 10
+- Created a fingerprint generator logic using librarys like matlabplot, scipy and numpy
+
+### Dat 11
+- Started a new project to create a telegram bot to control my computer (news soon)
