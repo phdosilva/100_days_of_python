@@ -60,3 +60,6 @@ I created a fork of the project that I'm one of the contributor:
 - Created a food class
 - Created the snake eat logic, score, end game
 - Finished the snake project
+
+### Day 13
+- Created a complete Pong game
