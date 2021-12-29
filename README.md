@@ -56,7 +56,7 @@ I created a fork of the project that I'm one of the contributor:
 - Started a new project to create a telegram bot to control my computer (news soon)
 - Started the day 20 at python course creating a snake game project
 
-## Day 12
+### Day 12
 - Created a food class
 - Created the snake eat logic, score, end game
 - Finished the snake project
