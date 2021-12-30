@@ -5,7 +5,7 @@ from food import Food
 
 class Snake:
     def __init__(self, boundaries: tuple[int, int, int, int]):
-        self._segments = []
+        self._segments: list[Turtle] = []
 
         for seg_num in range(3):
             t = self._create_segment(x=-1 * seg_num * BASIC_DIMENSION, y=0)
@@ -26,6 +26,7 @@ class Snake:
         t.penup()
         t.goto(x, y)
         return t
+
 
     def move(self):
         for i in range(len(self._segments) - 1, 0, -1):
@@ -87,3 +88,7 @@ class Snake:
                 return False
 
         return True
+
+    def reset(self):
+        list(map(lambda seg: seg.hideturtle(), self._segments))
+        self.__init__((*self._x_boundaries, *self._y_boundaries))

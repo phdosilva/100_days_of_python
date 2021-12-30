@@ -27,7 +27,10 @@ screen.onkey(snake.right, "Right")
 
 game_is_on = True
 while game_is_on:
-    game_is_on = snake.validate_movement()
+    if not snake.validate_movement():
+        snake.reset()
+        scoreboard.reset()
+        food.eaten()
     screen.update()
     time.sleep(0.05)
 

@@ -66,3 +66,6 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 14
 - Created a complete Chicken crossing road like game 
+
+### Day 15
+- Introduced myself to file handling (The basics that i already knew)
