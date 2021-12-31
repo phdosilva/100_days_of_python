@@ -69,3 +69,7 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 15
 - Introduced myself to file handling (The basics that i already knew)
+
+### Day 16
+- Worked with pandas library and csv files
+- Created a Guess the US States Name Game
