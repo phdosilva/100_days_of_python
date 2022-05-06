@@ -73,3 +73,9 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 16
 - Worked with pandas library and csv files
 - Created a Guess the US States Name Game
+
+### Day 17
+- I returned to python studies
+- Learned about list and dictionaty comprehension
+- Manage CSV with pandas library
+
