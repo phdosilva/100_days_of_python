@@ -79,3 +79,7 @@ I created a fork of the project that I'm one of the contributor:
 - Learned about list and dictionaty comprehension
 - Manage CSV with pandas library
 
+### Day 18
+- Start interact with Tkinter GUI python library
+- Manage unlimited function arguments 
+- Manage "kwargs" with **
