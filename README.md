@@ -84,3 +84,6 @@ I created a fork of the project that I'm one of the contributor:
 - Manage unlimited function arguments 
 - Manage "kwargs" with **
 - Miles to Kilometers project
+
+### Day 19
+- Created a Pomodoro App with tkinter
