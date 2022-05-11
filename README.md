@@ -90,3 +90,11 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 20
 - Created a password manager
+
+### Day 21
+- Errors
+- Exceptions
+- Saving JSON Data
+- Password manager refactoring
+
+
