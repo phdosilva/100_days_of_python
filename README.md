@@ -100,4 +100,8 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 22
 - Created a Flashcards App using tkinter and pandas library
 
+### Day 23
+- Email SMTP and the datetime module
+
+
 
