@@ -106,3 +106,8 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 24
 - API Endpoints and Parameters
 
+### Day 25
+- Quizz Project
+- Tkinter library
+- API Endpoints
+- Type Hint
