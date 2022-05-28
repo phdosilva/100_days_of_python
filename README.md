@@ -111,3 +111,7 @@ I created a fork of the project that I'm one of the contributor:
 - Tkinter library
 - API Endpoints
 - Type Hint
+
+### Day 26
+- Authenticate APIs
+- Sending SMS with Twilio API
