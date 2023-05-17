@@ -8,6 +8,7 @@ lon = -34.946235
 
 # account_sid = os.environ["ACCOUNT_SID"]
 # auth_token = os.environ.get("AUTH_TOKEN")
+# To create environment variable you can do by typing "export VARIABLE=VALUE"
 
 account_sid = ACCOUNT_SID
 auth_token = AUTH_TOKEN
