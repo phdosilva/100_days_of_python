@@ -115,3 +115,11 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 26
 - Authenticate APIs
 - Sending SMS with Twilio API
+
+> Pause
+
+### Day 27
+- After a few months off, I came back. I started the day 26 project from python course but I skiped to a subject of interest to me
+- Introduction to flask
+- Decorators
+- Flask debug mode
