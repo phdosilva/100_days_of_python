@@ -123,3 +123,6 @@ I created a fork of the project that I'm one of the contributor:
 - Introduction to flask
 - Decorators
 - Flask debug mode
+
+### Day 28
+- Rendering HTML with flask

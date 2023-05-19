@@ -22,6 +22,9 @@ def make_bold(function):
 
 @app.route("/")
 def hello_world():
+    # the whay to render html:
+    # return render_template("index.html", num=random.randint(1,10))
+
     return f"<p>Hello, World!</p>"
 
 @app.route("/<name>")
