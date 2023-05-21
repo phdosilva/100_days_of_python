@@ -128,5 +128,8 @@ I created a fork of the project that I'm one of the contributor:
 - Rendering HTML with flask
 
 ### Day 29
+- Continued in HTML with flask, but any code today
+
+### Day 30
 - First steps in web scraping
 - Handling BeautifulSoup library
