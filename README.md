@@ -126,3 +126,7 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 28
 - Rendering HTML with flask
+
+### Day 29
+- First steps in web scraping
+- Handling BeautifulSoup library
