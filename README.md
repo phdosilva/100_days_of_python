@@ -133,3 +133,6 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 30
 - First steps in web scraping
 - Handling BeautifulSoup library
+
+### Day 31
+- I tried to implement a spotify playlist generator but I failed
