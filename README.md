@@ -136,3 +136,6 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 31
 - I tried to implement a spotify playlist generator but I failed
+
+### Day 32
+- I tried to implement a POC using whisper API and Pyannote Segment Audio but I failed. I couldn't understand how to implement using pyannote and user token.
