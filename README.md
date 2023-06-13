@@ -139,3 +139,7 @@ I created a fork of the project that I'm one of the contributor:
 
 ### Day 32
 - I tried to implement a POC using whisper API and Pyannote Segment Audio but I failed. I couldn't understand how to implement using pyannote and user token.
+
+### Day 33
+- I created a POC using Pyannote Segment Audio
+- I tested a request to whisper OpenAi API
