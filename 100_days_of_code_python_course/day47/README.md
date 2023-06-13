@@ -1,0 +1,1 @@
+How to get header used by your browser: https://myhttpheader.com/

@@ -143,3 +143,8 @@ I created a fork of the project that I'm one of the contributor:
 ### Day 33
 - I created a POC using Pyannote Segment Audio
 - I tested a request to whisper OpenAi API
+
+### Day 34
+- I created a scrap to consult a object price on amazon.
+- I used BeautifulSoup again.
+- I remembered some methods of SMTP E-mail library
