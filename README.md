@@ -148,3 +148,9 @@ I created a fork of the project that I'm one of the contributor:
 - I created a scrap to consult a object price on amazon.
 - I used BeautifulSoup again.
 - I remembered some methods of SMTP E-mail library
+
+### Day 35
+- Re starting new projects at the beggining. 
+[Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial#_linux)
+
+Even though I'm writing at "Day 35", I spent many days developing some small projects in python and I didn't register
